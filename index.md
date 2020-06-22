@@ -14,5 +14,8 @@ Fun fact: Link ist stumm (er redet nie im Spiel).
 * Schläft zu beginn jedes Abenteuers.
 * Besitzt ein Pferd mit dem Namen "Epona".
 
-> Aiiiiiiiiaaaaaaaaaaaaaa
+> Aiiiiiiiiaaaaaaaaaaaaaa >
 *Link`s Schrei - The Legend of Zelda
+
+### Ein Bild von Link:
+<img src="https://vignette.wikia.nocookie.net/zelda/images/2/25/BoTW-Link.png/revision/latest?cb=20170226143719&path-prefix=de"/>
