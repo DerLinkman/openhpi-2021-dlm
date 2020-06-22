@@ -6,3 +6,10 @@ Um dieses Schwert zu erreichen muss er sich vielen Prüfungen (in Form von Dunge
 Diese Dungeons beherbergen in der Regel ein spezielles Werkzeug, welches Link neue Wege in diesem Dungeon öffnet.
 
 Fun fact: Link ist stumm (er redet nie im Spiel).
+
+## Links Eigenschaften:
+* Redet nie.
+* Immer hilfsbereit.
+* Spiegelt den Mut (des Triforce dar).
+* Schläft zu beginn jedes Abenteuers.
+* Besitzt ein Pferd mit dem Namen "Epona".
