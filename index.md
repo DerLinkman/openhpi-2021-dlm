@@ -13,3 +13,6 @@ Fun fact: Link ist stumm (er redet nie im Spiel).
 * Spiegelt den Mut (des Triforce dar).
 * Schläft zu beginn jedes Abenteuers.
 * Besitzt ein Pferd mit dem Namen "Epona".
+
+> Aiiiiiiiiaaaaaaaaaaaaaa
+*Link`s Schrei - The Legend of Zelda
